@@ -1,3 +1,10 @@
 body {
     background-color: rgb(200, 226, 255);
 }
+
+.dino-card {
+    background-color: black;
+    color: white;
+    width: 200px;
+    text-align: center;
+}
